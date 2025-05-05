@@ -18,12 +18,6 @@ A simulated lab environment with Windows 11 domain-joined clients to test and ma
 
 ---
 
-## ⚙️ Sample PowerShell Scripts (PowerShell 7)
-
-- `Create-Users.ps1` – Bulk user creation from CSV
-
----
-
 ## 👤 About Me
 
 I'm currently completing a professional training program in **Network & Cloud Infrastructure + CCNA**, with hands-on experience in IT support, Windows environments, and system administration.
