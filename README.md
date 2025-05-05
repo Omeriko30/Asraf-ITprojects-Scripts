@@ -19,9 +19,6 @@ A full virtual enterprise network built with **Windows Server 2025**, simulating
 - Certificate Authority via AD Certificate Services (AD CS)
 - Implemented on Hyper-V virtual machines
 
-📄 **[View Project Documentation (PDF)](LINK_TO_PDF)**  
-🧪 Includes diagrams, IP addressing plan, and user/group structure.
-
 ---
 
 ## 🧑‍💻 Project 2: Client Lab – Windows 11 Domain Integration
@@ -34,9 +31,6 @@ A simulated lab environment with Windows 11 domain-joined clients to test and ma
 - Remote Desktop Protocol (RDP) configuration
 - User and computer OU structure
 - PowerShell scripts for automation and user management
-
-📄 **[View Client Lab Summary (PDF)](LINK_TO_PDF_IF_EXISTS)**  
-📂 Example scripts available in the `/scripts` folder.
 
 ---
 
