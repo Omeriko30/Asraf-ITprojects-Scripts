@@ -21,25 +21,6 @@ A full virtual enterprise network built with **Windows Server 2025**, simulating
 
 ---
 
-## 🧑‍💻 Project 2: Client Lab – Windows 11 Domain Integration
-
-A simulated lab environment with Windows 11 domain-joined clients to test and manage user access, policies, and scripts.
-
-### 🔧 Features:
-- Domain-joined Windows 11 VMs
-- GPO testing: desktop restrictions, login banners, shared drives
-- Remote Desktop Protocol (RDP) configuration
-- User and computer OU structure
-- PowerShell scripts for automation and user management
-
----
-
-## ⚙️ Sample PowerShell Scripts (PowerShell 7)
-
-- `Create-Users.ps1` – Bulk user creation from CSV
-
----
-
 ## 👤 About Me
 
 I'm currently completing a professional training program in **Network & Cloud Infrastructure + CCNA**, with hands-on experience in IT support, Windows environments, and system administration.
