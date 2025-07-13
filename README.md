@@ -18,10 +18,8 @@ A simulated lab environment with Windows 11 domain-joined clients to test and ma
 
 ---
 
-## 👤 About Me
-
-I'm currently completing a professional training program in **Network & Cloud Infrastructure + CCNA**, with hands-on experience in IT support, Windows environments, and system administration.
-
-📧 Email: omeriko30@gmail.com  
+## 👨‍💻 Author
+**Omer Asraf**  
+LinkedIn: [linkedin.com/in/omeriko30](https://www.linkedin.com/in/omeriko30/) 
 
 ---
